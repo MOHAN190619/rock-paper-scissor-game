@@ -1,0 +1,38 @@
+  .js-btn{
+    background-color: black;
+    border-radius: 60px;
+    border: whitesmoke 3px solid;
+    height: 120px;
+    width: 120px;
+    justify-content: space-between;
+    display:inline-block;
+    margin-right: 10px;
+    cursor:pointer;
+  }
+  body{
+    background-color: black;
+    color:whitesmoke;
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+  }
+  .js-view{
+    color:whitesmoke;
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+
+  }
+  img{
+  width:100px ;
+  height: 100px;
+  border-radius: 30px;
+  background-color: black;
+  }
+  .js{
+    padding: 5px 2.5px 5px 2.5px;
+    width: 150px;
+    justify-content:center;
+    display: flex;
+    margin-top: 10px;
+  }
